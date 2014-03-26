@@ -1,6 +1,14 @@
+
+bin
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+dependencies/stanford-corenlp-models.jar
+.DS_Store
+gallery
+
+

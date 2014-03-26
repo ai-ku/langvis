@@ -1,0 +1,1 @@
+java -classpath JMF-2.1.1e/lib/jmf.jar:mp3/lib/ext/mp3plugin.jar com.sun.media.codec.audio.mp3.JavaDecoder
